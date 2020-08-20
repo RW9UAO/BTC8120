@@ -1,0 +1,1 @@
+qmk compile -kb btc8120 -km default
